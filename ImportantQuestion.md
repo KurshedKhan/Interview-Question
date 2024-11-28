@@ -57,7 +57,7 @@
 26. box-shadow proerty
 
 
-#### .	Explain technique : 
+#### .	Explain pseudo-element and pseudo-classes : 
 1. :hover
 2. focus
 3. nth-child
